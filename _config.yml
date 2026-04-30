@@ -1,16 +1,15 @@
-theme: jekyll-theme-minimal
 # Site-wide settings
 # ------------------
 #
-#title: Some Maps and Things
+title: Some Maps and Things
 #
-#author:
-#name: SophiaK25
-#email: knightlysophia@gmail.com
+author: SophiaK25
+name: Sophia Knightly
+email: knightlysophia@gmail.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
-#description: >
+description: >
   Welcome and thank you for stopping by! I am a reserach assistant within the Sewall Lab 
   at Temple University studying the effects of Spotted Lanternfly
   feeding on native plants to Pennsylvania, as well as the conservation
@@ -21,7 +20,7 @@ theme: jekyll-theme-minimal
 #
 # If you wish to use the gem-version of Minima with or without a Gemfile, use
 #   the following setting:
-#theme: minima
+theme: minima
 #
 # **OR** if you wish to use the theme directly from the GitHub repository by
 #   bypassing a Gemfile, use the following setting instead.
@@ -30,7 +29,7 @@ theme: jekyll-theme-minimal
 # remote_theme: jekyll/minima@d4d779a
 #
 # Minima requires the following plugins:
-#plugins:
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
 #
