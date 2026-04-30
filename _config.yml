@@ -4,8 +4,8 @@
 title: Some Maps and Things
 #
 author:
-  name: "SophiaK25"
-  email: "knightlysophia@gmail.com"
+  name: SophiaK25
+  email: knightlysophia@gmail.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
@@ -13,7 +13,7 @@ description: >
   Welcome and thank you for stopping by! I am a reserach assistant within the Sewall Lab 
   at Temple University studying the effects of Spotted Lanternfly
   feeding on native plants to Pennsylvania, as well as the conservation
-  of the endangered Eastern Regal Fritillary. Broadly, I am interested in 
+  of the endangered Eastern Regal Fritillary. Check out some maps.
 
 # Build settings
 # --------------
@@ -46,7 +46,7 @@ sass:
 #  *All described config keys below should be nested under the top-level
 #   `minima` key.*
 #
-# minima:
+Minima:
 #   Minima skin selection. Available skins are:
 #     * classic            Default, light color scheme.
 #     * dark               Dark variant of the classic skin.
@@ -64,12 +64,12 @@ skin: auto
 #     - about.md
 #
 #   Set to `true` to show excerpts on the homepage.
-#   show_excerpts: false
+show_excerpts: true
 #
 #   Minima date format.
 #     The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
 #     Refer to https://shopify.github.io/liquid/filters/date/ for valid values
-#   date_format: "%b-%d-%Y"
+date_format: "%b-%d-%Y"
 #
 #   Social Media Links.
 #     Renders icons via Font Awesome Free webfonts CDN, based on ordered list of
