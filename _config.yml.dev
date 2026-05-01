@@ -1,22 +1,22 @@
-title: Your awesome title
-author:
+#title: Your awesome title
+#author:
   name: Sophia Knightly
   email: tus93680@temple.edu
 
-description: >
+#description: >
   Maps and bugs maps and bugs.
 
-theme: minima
+#theme: minima
 
-plugins:
+#plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-sass:
+#sass:
   quiet_deps: true
   silence_deprecations: [import]
 
-minima:
+#minima:
   # Minima skin selection. Available skins are:
   #   Available skins:
   #     * classic            Default, light color scheme.
@@ -25,22 +25,22 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: classic
+  #skin: classic
 
   # Specific pages for site navigation.
   #   If you wish to link only specific pages in the site-navigation, use this and list
   #   the `path` property (as represented via Liquid) of the pages in the order they
   #   should be rendered.
-  nav_pages:
+  #nav_pages:
     - about.md
 
   # Set to `true` to show excerpts on the homepage.
-  show_excerpts: true
+  #show_excerpts: true
 
   # Minima date format.
   #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
   #   Refer to https://shopify.github.io/liquid/filters/date/ for valid values.
-date_format: "%b-%d-%Y"
+#date_format: "%b-%d-%Y"
 
   # Social Media Links
   #   Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
