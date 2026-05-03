@@ -20,7 +20,7 @@ description: >
 #
 # If you wish to use the gem-version of Minima with or without a Gemfile, use
 #   the following setting:
-theme: minima
+remote_theme: jekyll/minima
 #
 # **OR** if you wish to use the theme directly from the GitHub repository by
 #   bypassing a Gemfile, use the following setting instead.
@@ -91,5 +91,5 @@ date_format: "%b-%d-%Y"
 #     part of social-links list.
 hide_site_feed_link: true
 
-baseurl: /SophiaK25
+baseurl: "/SophiaK25"
 url: "https://SophiaK25.github.io"
