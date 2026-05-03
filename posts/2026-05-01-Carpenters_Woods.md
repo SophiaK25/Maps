@@ -4,5 +4,4 @@ title: "A Walk Through Time in Carpenters Woods"
 date: 2026-05-01 00:00:00 -0000
 categories: Maps
 ---
-
-![Carpenters Woods]("/assets/Carpenters_Woods.pdf")
+![Carpenters Woods]({{ site.baseurl }}/assets/Carpenters_Woods.pdf)
