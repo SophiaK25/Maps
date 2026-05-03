@@ -91,5 +91,5 @@ date_format: "%b-%d-%Y"
 #     part of social-links list.
 hide_site_feed_link: true
 
-baseurl: "/SophiaK25"
+baseurl: /SophiaK25
 url: "https://SophiaK25.github.io"
