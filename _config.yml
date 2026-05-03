@@ -90,3 +90,6 @@ date_format: "%b-%d-%Y"
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 hide_site_feed_link: true
+header_pages:
+  - 2026-05-01-AirBNB_Density.md
+  
