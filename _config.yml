@@ -1,7 +1,7 @@
 # Site-wide settings
 # ------------------
 #
-title: Some Maps and Things
+title: Spring 2026 Maps
 #
 author: SophiaK25
 name: Sophia Knightly
@@ -10,7 +10,7 @@ email: knightlysophia@gmail.com
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-
+  A repository for maps produced within Fundamentals of GIS and Cartographic Design Classes during the Spring 2026 semester.
 
 # Build settings
 # --------------
