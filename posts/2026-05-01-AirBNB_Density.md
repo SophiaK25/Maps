@@ -4,4 +4,5 @@ title: "AirBNB Density"
 date: 2026-05-01 00:00:00 -0000
 categories: Maps
 ---
-![Air BNB Density](/images/AirBNB_Density.jpg)
+#![Air BNB Density](/images/AirBNB_Density.jpg)
+![Air BNB Density]({{ "/images/AirBNB_Density.jpg" | /images/AirBNB_Density.jpg }})
